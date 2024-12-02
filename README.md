@@ -6,7 +6,6 @@
 </h1>
 
 <p align="center">
-  📚 <a href="https://arxiv.org/abs/2408.06292">[Paper]</a> |
   📂 <a href="https://drive.google.com/drive/folders/1G7A0wTqfXVa-cpexjk0oaXakaSJwffEt">[Drive Folder]</a>
 </p>
 
